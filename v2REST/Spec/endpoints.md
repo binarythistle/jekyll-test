@@ -2,7 +2,7 @@
 layout: page
 title: Endpoints
 permalink: /restapi/endpoints/
-nav_order: 1
+nav_order: 2
 parent: V2 (REST) API
 has_children: true
 ---
